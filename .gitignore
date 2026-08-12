@@ -63,9 +63,8 @@ linux.AppDir
 
 untranlated.json
 
-.vscode/settings.json
 more_build_data.json
 trans.txt
 android/app/.cxx
 .env.release
-.env
+config.bat
